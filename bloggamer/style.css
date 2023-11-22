@@ -1,0 +1,34 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+header{
+display: flex;
+
+}
+.div-header{
+margin-top: 20px;
+width: 100%;
+height: 50px;
+background-color: rgba(205, 205, 205, 10%);
+display: flex;
+}
+.links-header{
+
+}
+a{
+    margin-right: 7px;
+}
+.right{
+   position: relative;
+   left: 80%;
+   top: 15%;
+}
+h1{
+    text-align: center;
+
+}
+img{
+    width: 25px;
+}
